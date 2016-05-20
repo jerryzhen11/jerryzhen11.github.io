@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio</title>
+    <title>hello world</title>
     <description>Jannik Richter, jannik811@gmail.com
 </description>
-    <link>http://yourdomain.com/jekyll-slender-template/</link>
-    <atom:link href="http://yourdomain.com/jekyll-slender-template/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 May 2016 16:25:01 +0800</pubDate>
-    <lastBuildDate>Fri, 20 May 2016 16:25:01 +0800</lastBuildDate>
+    <link>http://jerryzhen11.github.io/</link>
+    <atom:link href="http://jerryzhen11.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 May 2016 16:27:38 +0800</pubDate>
+    <lastBuildDate>Fri, 20 May 2016 16:27:38 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 30 Mar 2016 17:31:49 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll%20-%20Copy.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll%20-%20Copy.html</guid>
+        <link>http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll%20-%20Copy.html</link>
+        <guid isPermaLink="true">http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll%20-%20Copy.html</guid>
         
         
         <category>jekyll</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Wed, 30 Mar 2016 17:31:49 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll%20.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll%20.html</guid>
+        <link>http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll%20.html</link>
+        <guid isPermaLink="true">http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll%20.html</guid>
         
         
         <category>jekyll</category>
@@ -84,8 +84,8 @@
 
 </description>
         <pubDate>Wed, 30 Mar 2016 17:31:49 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
+        <link>http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -112,8 +112,8 @@
 
 </description>
         <pubDate>Wed, 30 Mar 2016 17:31:49 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
+        <link>http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -140,8 +140,8 @@
 
 </description>
         <pubDate>Wed, 30 Mar 2016 17:31:49 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
+        <link>http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -168,8 +168,8 @@
 
 </description>
         <pubDate>Wed, 30 Mar 2016 17:31:49 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-slender-template/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
+        <link>http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jerryzhen11.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
