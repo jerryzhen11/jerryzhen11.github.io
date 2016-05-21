@@ -7,14 +7,14 @@ layout: default
   
  <div class="col col-12">
       <div class="col col-3">
-          <div class="block glass"  style="background-image:url(assets/avatar.jpg)">      
+          <div id="avatar" class="block glass"  style="background-image:url(assets/avatar.jpg);">
           </div>
       </div>
       <div class="col col-9">
-        <div class="block glass">
+        <div  class="block glass" style="background-size: 100%">
             <div class="block-body">
-                <h2>Yo, I'm Dude Labouwski</h2>
-                <p class="grey-text">Aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores ausLorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus</p>
+                <h2>Yo, I'm Jerry</h2>
+                <p class="grey-text">这是我在业余时间搭建的一个博客小站，感谢Ovillia美女的指导（交大研究生果然是名不虚传） 总之这是因为某个早晨被楼下施工吵醒而搞起的一个东西。欢迎大家常来看我吹b~</p>
             </div>
         </div>
       </div>  
@@ -22,7 +22,7 @@ layout: default
   <div class="col col-12">
     {% for port in site.data.portfolio %}
       <div class="col col-{{port.width}}">
-        <div class="block" style="background-image:url(assets/{{port.img}})">
+        <div class="block" style="background-image:url(assets/{{port.img}});background-size: 100%;background-repeat: no-repeat ">
             <div class="block-body height-{{port.height}}">              
                 <h2 class="align-bottom-right">
                   {{ port.title }}

@@ -5,24 +5,18 @@
     descr: css
     color: teal
     xp: 7
--   id: c#
-    descr: c#    
-    xp: 3
--   id: angular
-    descr: angularjs    
-    xp: 8
--   id: java
-    descr: java    
-    xp: 5
 -   id: sass
     descr: sass    
-    xp: 4
+    xp: 5
 -   id: jquery
     descr: jquery    
-    xp: 3
+    xp: 6
 -   id: node.js
     descr: node.js 
-    xp: 2
+    xp: 4
 -   id: php
     descr: php
     xp: 4
+-   id: react
+    descr: react
+    xp: 3
